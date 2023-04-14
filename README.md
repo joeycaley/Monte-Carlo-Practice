@@ -1,2 +1,2 @@
 # Monte-Carlo-Practice
-Me fiddling with monte carlo for a basic intro
+Me fiddling with monte carlo for a basic intro to it
